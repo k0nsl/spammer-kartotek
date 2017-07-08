@@ -1,12 +1,12 @@
-blackhole 78.110.48.0/20
-blackhole 194.67.216.241
-blackhole 74.122.195.151
-blackhole 194.67.210.59
-blackhole 194.67.209.35
-blackhole 194.67.208.71
-blackhole 216.231.136.100
-blackhole 188.40.16.134
-blackhole 194.67.217.34
-blackhole 94.67.216.82
-blackhole 194.67.216.80
-blackhole 74.122.195.188
+ip route add blackhole 78.110.48.0/20
+ip route add blackhole 194.67.216.241
+ip route add blackhole 74.122.195.151
+ip route add blackhole 194.67.210.59
+ip route add blackhole 194.67.209.35
+ip route add blackhole 194.67.208.71
+ip route add blackhole 216.231.136.100
+ip route add blackhole 188.40.16.134
+ip route add blackhole 194.67.217.34
+ip route add blackhole 94.67.216.82
+ip route add blackhole 194.67.216.80
+ip route add blackhole 74.122.195.188
