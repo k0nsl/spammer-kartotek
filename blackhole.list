@@ -18,3 +18,4 @@ ip route add blackhole 216.231.136.116
 ip route add blackhole 216.231.136.120
 ip route add blackhole 173.213.2.23
 ip route add blackhole 194.67.216.57
+ip route add blackhole 194.67.215.222
