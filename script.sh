@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 ##############################################################
-# script.sh by k0nsl  (i.am@k0nsl.org)                       #
+# Title  : script.sh                                         #
+# Author : k0nsl  (i.am@k0nsl.org)                           #
 #                                                            #
-# This is a rudimentary Bash script for importing            #
-# spammer's IP addresses and adding them to a blackhole.     #
+# Description : This is a rudimentary Bash script for        #
+#               importing spammer's IP addresses and         #
+#               adding them to a blackhole.                  #
 #                                                            #
 # Last modified on Tue Jul 11 12:31:22 CEST 2017             #
 ##############################################################
